@@ -1,1 +1,0 @@
-Get a new newsapi key from https://newsapi.org/ for free and add it to \src\main\resources\application to run the app
